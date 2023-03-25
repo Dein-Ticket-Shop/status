@@ -34,7 +34,7 @@ for (const [key, value] of Object.entries(globalSites)) {
 for (const [key, value] of Object.entries(organizations)) {
     for (const [subdomain, subdomainName] of Object.entries(subdomains)) {
         const name = `${value} - ${subdomainName}`;
-        const url = `https://${subdomain}.${key}.dein-ticket.shop`;
+        const url = `https://${key}.${subdomain ? `${subdomain}.` : ""}dein-ticket.shop`;
         data.sites.push({
             name,
             url,
