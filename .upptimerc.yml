@@ -1,21 +1,29 @@
 owner: Dein-Ticket-Shop
 repo: status
-
 sites:
   - name: Dein-Ticket.Shop
     url: https://dein-ticket.shop
-  - name: Klecks
-    url: https://klecks.dein-ticket.shop
-  - name: Klecks Admin
-    url: https://klecks.admin.dein-ticket.shop
-  - name: Klecks VVK
-    url: https://klecks.vvk.dein-ticket.shop
   - name: Login
     url: https://login.dein-ticket.shop
-
+  - name: Kleinkunstverein Klecks e.V. - Verkaufsseite
+    url: https://.klecks.dein-ticket.shop
+  - name: Kleinkunstverein Klecks e.V. - Admin-Bereich
+    url: https://admin.klecks.dein-ticket.shop
+  - name: Kleinkunstverein Klecks e.V. - Vorverkauf
+    url: https://vvk.klecks.dein-ticket.shop
+  - name: Kunstquartier Allgäu - Verkaufsseite
+    url: https://.kqa.dein-ticket.shop
+  - name: Kunstquartier Allgäu - Admin-Bereich
+    url: https://admin.kqa.dein-ticket.shop
+  - name: Kunstquartier Allgäu - Vorverkauf
+    url: https://vvk.kqa.dein-ticket.shop
+  - name: Alpe Müllers Berg - Verkaufsseite
+    url: https://.alpe-muellers-berg.dein-ticket.shop
+  - name: Alpe Müllers Berg - Admin-Bereich
+    url: https://admin.alpe-muellers-berg.dein-ticket.shop
+  - name: Alpe Müllers Berg - Vorverkauf
+    url: https://vvk.alpe-muellers-berg.dein-ticket.shop
 status-website:
-  # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/127296773
   name: Dein-Ticket-Shop Status
   introTitle: Dein-Ticket-Shop Status

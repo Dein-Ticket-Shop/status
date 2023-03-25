@@ -1,0 +1,11 @@
+{
+  "name": "dts-status",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dein-Ticket-Shop/status",
+  "author": "Hannes Rüger <hannesrueger@gmx.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "yaml": "^2.2.1"
+  }
+}
