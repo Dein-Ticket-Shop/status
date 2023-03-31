@@ -58,36 +58,40 @@
     "url": "https://klecks.admin.dein-ticket.shop",
     "icon": "https://icons.duckduckgo.com/ip3/klecks.admin.dein-ticket.shop.ico",
     "slug": "kleinkunstverein-klecks-e-v-admin-bereich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 582,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
-    "dailyMinutesDown": {}
+    "time": 1440,
+    "timeDay": 3992,
+    "timeWeek": 1440,
+    "timeMonth": 1440,
+    "timeYear": 1440,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   },
   {
     "name": "Kleinkunstverein Klecks e.V. - Vorverkauf",
     "url": "https://klecks.vvk.dein-ticket.shop",
     "icon": "https://icons.duckduckgo.com/ip3/klecks.vvk.dein-ticket.shop.ico",
     "slug": "kleinkunstverein-klecks-e-v-vorverkauf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 579,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
-    "dailyMinutesDown": {}
+    "time": 551,
+    "timeDay": 439,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   },
   {
     "name": "Kunstquartier Allgäu - Verkaufsseite",
@@ -112,36 +116,40 @@
     "url": "https://kqa.admin.dein-ticket.shop",
     "icon": "https://icons.duckduckgo.com/ip3/kqa.admin.dein-ticket.shop.ico",
     "slug": "kunstquartier-allgaeu-admin-bereich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 562,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "time": 550,
+    "timeDay": 434,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   },
   {
     "name": "Kunstquartier Allgäu - Vorverkauf",
     "url": "https://kqa.vvk.dein-ticket.shop",
     "icon": "https://icons.duckduckgo.com/ip3/kqa.vvk.dein-ticket.shop.ico",
     "slug": "kunstquartier-allgaeu-vorverkauf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 555,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
-    "dailyMinutesDown": {}
+    "time": 549,
+    "timeDay": 436,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   },
   {
     "name": "Alpe Müllers Berg - Verkaufsseite",
@@ -166,35 +174,39 @@
     "url": "https://alpe-muellers-berg.admin.dein-ticket.shop",
     "icon": "https://icons.duckduckgo.com/ip3/alpe-muellers-berg.admin.dein-ticket.shop.ico",
     "slug": "alpe-muellers-berg-admin-bereich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 539,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
-    "dailyMinutesDown": {}
+    "time": 535,
+    "timeDay": 419,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   },
   {
     "name": "Alpe Müllers Berg - Vorverkauf",
     "url": "https://alpe-muellers-berg.vvk.dein-ticket.shop",
     "icon": "https://icons.duckduckgo.com/ip3/alpe-muellers-berg.vvk.dein-ticket.shop.ico",
     "slug": "alpe-muellers-berg-vorverkauf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 563,
-    "timeWeek": 585,
-    "timeMonth": 585,
-    "timeYear": 585,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 437,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2023-03-31": 0
+    }
   }
 ]
