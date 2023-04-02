@@ -1,7 +1,7 @@
 url: https://klecks.vvk.dein-ticket.shop
-status: up
-code: 200
-responseTime: 416
-lastUpdated: 2023-04-01T23:08:18.580Z
+status: down
+code: 500
+responseTime: 382
+lastUpdated: 2023-04-02T11:31:22.200Z
 startTime: Sat Mar 25 2023 15:51:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
