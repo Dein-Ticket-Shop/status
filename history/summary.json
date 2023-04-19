@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-bereich",
     "status": "up",
-    "uptime": "22.48%",
-    "uptimeDay": "22.48%",
-    "uptimeWeek": "22.48%",
-    "uptimeMonth": "22.48%",
-    "uptimeYear": "22.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 592,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2023-04-19": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vorverkauf",
@@ -132,39 +130,37 @@
     "url": "$URL_TEST_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "testsystem-login",
-    "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-04-19": 9
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Testsystem Online-Shop",
     "url": "$URL_TEST_FRONTEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "testsystem-online-shop",
-    "status": "up",
-    "uptime": "3.98%",
-    "uptimeDay": "3.98%",
-    "uptimeWeek": "3.98%",
-    "uptimeMonth": "3.98%",
-    "uptimeYear": "3.98%",
-    "time": 539,
-    "timeDay": 539,
-    "timeWeek": 539,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "status": "down",
+    "uptime": "44.40%",
+    "uptimeDay": "44.40%",
+    "uptimeWeek": "44.40%",
+    "uptimeMonth": "44.40%",
+    "uptimeYear": "44.40%",
+    "time": 453,
+    "timeDay": 453,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-04-19": 8
+      "2023-04-19": 27
     }
   },
   {
@@ -172,19 +168,19 @@
     "url": "$URL_TEST_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "testsystem-admin-bereich",
-    "status": "up",
-    "uptime": "3.30%",
-    "uptimeDay": "3.30%",
-    "uptimeWeek": "3.30%",
-    "uptimeMonth": "3.30%",
-    "uptimeYear": "3.30%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 726,
+    "timeDay": 726,
+    "timeWeek": 726,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2023-04-19": 8
+      "2023-04-19": 0
     }
   },
   {
@@ -193,19 +189,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "testsystem-vorverkauf",
     "status": "up",
-    "uptime": "2.02%",
-    "uptimeDay": "2.02%",
-    "uptimeWeek": "2.02%",
-    "uptimeMonth": "2.02%",
-    "uptimeYear": "2.02%",
-    "time": 626,
-    "timeDay": 626,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
-    "dailyMinutesDown": {
-      "2023-04-19": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 598,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Testsystem API",
@@ -213,18 +207,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "testsystem-api",
     "status": "up",
-    "uptime": "22.49%",
-    "uptimeDay": "22.49%",
-    "uptimeWeek": "22.49%",
-    "uptimeMonth": "22.49%",
-    "uptimeYear": "22.49%",
-    "time": 445,
-    "timeDay": 445,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
+    "uptime": "85.56%",
+    "uptimeDay": "85.56%",
+    "uptimeWeek": "85.56%",
+    "uptimeMonth": "85.56%",
+    "uptimeYear": "85.56%",
+    "time": 504,
+    "timeDay": 504,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-04-19": 6
+      "2023-04-19": 7
     }
   }
 ]
