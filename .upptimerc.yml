@@ -4,25 +4,31 @@ sites:
   - name: Dein-Ticket.Shop
     url: https://dein-ticket.shop
   - name: Login
-    url: https://login.dein-ticket.shop
-  - name: Kleinkunstverein Klecks e.V. - Verkaufsseite
-    url: https://klecks.dein-ticket.shop
-  - name: Kleinkunstverein Klecks e.V. - Admin-Bereich
-    url: https://klecks.admin.dein-ticket.shop
-  - name: Kleinkunstverein Klecks e.V. - Vorverkauf
-    url: https://klecks.vvk.dein-ticket.shop
-  - name: Kunstquartier Allgäu - Verkaufsseite
-    url: https://kqa.dein-ticket.shop
-  - name: Kunstquartier Allgäu - Admin-Bereich
-    url: https://kqa.admin.dein-ticket.shop
-  - name: Kunstquartier Allgäu - Vorverkauf
-    url: https://kqa.vvk.dein-ticket.shop
-  - name: Alpe Müllers Berg - Verkaufsseite
-    url: https://alpe-muellers-berg.dein-ticket.shop
-  - name: Alpe Müllers Berg - Admin-Bereich
-    url: https://alpe-muellers-berg.admin.dein-ticket.shop
-  - name: Alpe Müllers Berg - Vorverkauf
-    url: https://alpe-muellers-berg.vvk.dein-ticket.shop
+    url: $URL_LOGIN
+  - name: Online-Shop
+    url: $URL_FRONTEND
+  - name: Admin-Bereich
+    url: $URL_BACKEND
+  - name: Vorverkauf
+    url: $URL_VVK
+  - name: API
+    url: $URL_API
+    expectedStatusCodes:
+      - 404
+  - name: Testsystem
+    url: $URL_TEST
+  - name: Testsystem Login
+    url: $URL_TEST_LOGIN
+  - name: Testsystem Online-Shop
+    url: $URL_TEST_FRONTEND
+  - name: Testsystem Admin-Bereich
+    url: $URL_TEST_BACKEND
+  - name: Testsystem Vorverkauf
+    url: $URL_TEST_VVK
+  - name: Testsystem API
+    url: $URL_TEST_API
+    expectedStatusCodes:
+      - 404
 status-website:
   logoUrl: https://avatars.githubusercontent.com/u/127296773
   name: Dein-Ticket-Shop Status
