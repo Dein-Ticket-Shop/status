@@ -15,20 +15,20 @@ sites:
     url: $URL_API
     expectedStatusCodes:
       - 404
-  - name: Testsystem
-    url: $URL_TEST
-  - name: Testsystem Login
-    url: $URL_TEST_LOGIN
-  - name: Testsystem Online-Shop
-    url: $URL_TEST_FRONTEND
-  - name: Testsystem Admin-Bereich
-    url: $URL_TEST_BACKEND
-  - name: Testsystem Vorverkauf
-    url: $URL_TEST_VVK
-  - name: Testsystem API
-    url: $URL_TEST_API
-    expectedStatusCodes:
-      - 404
+#  - name: Testsystem
+#    url: $URL_TEST
+#  - name: Testsystem Login
+#    url: $URL_TEST_LOGIN
+#  - name: Testsystem Online-Shop
+#    url: $URL_TEST_FRONTEND
+#  - name: Testsystem Admin-Bereich
+#    url: $URL_TEST_BACKEND
+#  - name: Testsystem Vorverkauf
+#    url: $URL_TEST_VVK
+#  - name: Testsystem API
+#    url: $URL_TEST_API
+#    expectedStatusCodes:
+#      - 404
 status-website:
   logoUrl: https://avatars.githubusercontent.com/u/127296773
   name: Dein-Ticket-Shop Status
