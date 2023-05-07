@@ -4,10 +4,10 @@
     "url": "https://dein-ticket.shop",
     "icon": "https://icons.duckduckgo.com/ip3/dein-ticket.shop.ico",
     "slug": "dein-ticket-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
@@ -15,7 +15,9 @@
     "timeWeek": 460,
     "timeMonth": 492,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-07": 2
+    }
   },
   {
     "name": "Login",
@@ -40,9 +42,9 @@
     "url": "$URL_FRONTEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "online-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1172,
     "timeMonth": 1476,
     "timeYear": 1476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-07": 0
+    }
   },
   {
     "name": "Admin-Bereich",
