@@ -26,10 +26,10 @@
     "url": "$URL_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 425,
@@ -37,17 +37,19 @@
     "timeWeek": 380,
     "timeMonth": 415,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-13": 2
+    }
   },
   {
     "name": "Online-Shop",
     "url": "$URL_FRONTEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "online-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 799,
@@ -56,6 +58,7 @@
     "timeMonth": 543,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2023-07-13": 1,
       "2023-07-06": 16,
       "2023-05-15": 7,
       "2023-05-07": 4
@@ -66,9 +69,9 @@
     "url": "$URL_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-bereich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -78,6 +81,7 @@
     "timeMonth": 535,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-07-06": 16,
       "2023-06-19": 12,
       "2023-05-15": 7
