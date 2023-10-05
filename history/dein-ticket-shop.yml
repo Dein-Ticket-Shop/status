@@ -1,7 +1,7 @@
 url: https://dein-ticket.shop
-status: up
-code: 200
-responseTime: 663
-lastUpdated: 2023-10-04T23:09:11.254Z
+status: down
+code: 502
+responseTime: 335
+lastUpdated: 2023-10-05T15:33:31.413Z
 startTime: 2023-03-25T15:46:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
