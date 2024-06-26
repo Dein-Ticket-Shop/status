@@ -1,7 +1,7 @@
 url: $URL_VVK
-status: up
-code: 200
-responseTime: 1589
-lastUpdated: 2024-06-25T23:02:36.563Z
+status: down
+code: 500
+responseTime: 16281
+lastUpdated: 2024-06-26T20:00:55.774Z
 startTime: 2023-04-19T18:42:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
