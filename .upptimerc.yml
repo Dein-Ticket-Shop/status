@@ -35,6 +35,7 @@ status-website:
   introTitle: Dein-Ticket-Shop Status
   introMessage: This is the status page for Dein-Ticket-Shop.
   baseUrl: /
+  cname: status.dein-ticket.shop
   navbar:
     - title: Status
       href: /
