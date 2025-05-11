@@ -6,7 +6,7 @@
     "slug": "dein-ticket-shop",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -14,8 +14,9 @@
     "timeDay": 812,
     "timeWeek": 1080,
     "timeMonth": 1022,
-    "timeYear": 1554,
+    "timeYear": 1552,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2024-12-10": 33,
       "2024-10-10": 123,
       "2024-08-17": 75,
@@ -27,9 +28,9 @@
     "url": "$URL_LOGIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,16 +39,18 @@
     "timeWeek": 661,
     "timeMonth": 605,
     "timeYear": 524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 0
+    }
   },
   {
     "name": "Online-Shop",
     "url": "$URL_FRONTEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "online-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -57,6 +60,7 @@
     "timeMonth": 1074,
     "timeYear": 1036,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-03-10": 42,
       "2024-12-10": 33,
       "2024-08-17": 75
@@ -67,18 +71,19 @@
     "url": "$URL_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-bereich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 879,
+    "time": 880,
     "timeDay": 618,
     "timeWeek": 733,
     "timeMonth": 677,
     "timeYear": 922,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-03-10": 54,
       "2024-12-10": 33
     }
@@ -88,9 +93,9 @@
     "url": "$URL_VVK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vorverkauf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -100,6 +105,7 @@
     "timeMonth": 629,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-03-10": 54,
       "2024-12-10": 33
     }
@@ -109,9 +115,9 @@
     "url": "$URL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -121,6 +127,7 @@
     "timeMonth": 380,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2024-12-10": 33
     }
   }
