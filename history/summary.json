@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1182,
-    "timeDay": 995,
-    "timeWeek": 1111,
-    "timeMonth": 1040,
-    "timeYear": 1054,
+    "timeDay": 1074,
+    "timeWeek": 1145,
+    "timeMonth": 1042,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-05-11": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 602,
-    "timeDay": 594,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 646,
+    "time": 603,
+    "timeDay": 524,
+    "timeWeek": 681,
+    "timeMonth": 678,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2025-05-11": 28
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 840,
-    "timeDay": 841,
-    "timeWeek": 876,
-    "timeMonth": 893,
+    "time": 839,
+    "timeDay": 785,
+    "timeWeek": 888,
+    "timeMonth": 888,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2025-05-11": 28,
@@ -71,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 730,
-    "timeDay": 678,
-    "timeWeek": 730,
-    "timeMonth": 722,
+    "time": 729,
+    "timeDay": 584,
+    "timeWeek": 732,
+    "timeMonth": 717,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2025-05-11": 28,
@@ -92,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 705,
-    "timeDay": 656,
+    "time": 704,
+    "timeDay": 533,
     "timeWeek": 682,
-    "timeMonth": 692,
+    "timeMonth": 688,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-05-11": 28,
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 452,
-    "timeDay": 370,
-    "timeWeek": 416,
-    "timeMonth": 421,
+    "timeDay": 324,
+    "timeWeek": 414,
+    "timeMonth": 419,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-05-11": 28
